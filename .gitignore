@@ -1,9 +1,0 @@
-#*
-*.bak
-*.zip
-Makefile
-Makefile.old
-MANIFEST
-MANIFEST.bak
-*~
-theme_thumbs
